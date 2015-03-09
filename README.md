@@ -14,7 +14,7 @@ Nixie tube images are from [Čestmír Hýbl](http://cestmir.freeside.sk/projects
 
 Source code itself is under WTFPL. It's OK to use it commercial if you don't use Čestmír Hýbl's nixie tube images.
 
-'''
+```
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
 
@@ -28,5 +28,4 @@ Source code itself is under WTFPL. It's OK to use it commercial if you don't use
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
-'''
-
+```
