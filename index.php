@@ -52,7 +52,8 @@ Invalid character will be rendered as an empty tube.
 <h5>
 Copyright &copy; 2015 Snack. All rights reserved.<br>
 Nixie tubes' images' rights are belong to <a href="http://cestmir.freeside.sk/projects/dhtml-nixie-display/">Čestmír Hýbl</a>.<br>
-Free for non-commercial use only.
+Free for non-commercial use only.<br>
+<a href="https://github.com/Snack-X/naas">Fork or Star at GitHub</a>
 </h5>
 
 </body>
